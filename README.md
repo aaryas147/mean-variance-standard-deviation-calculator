@@ -1,6 +1,4 @@
 # mean-variance-standard-deviation-calculator
-# Mean-Variance-Standard Deviation Calculator
-
 A Python project built with NumPy as part of the freeCodeCamp Data Analysis with Python Certification.
 
 ## Features
